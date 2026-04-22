@@ -1,0 +1,333 @@
+[{
+  "_id": {
+    "$oid": "68f0211ccadc138a141da257"
+  },
+  "calificacion": 5,
+  "comentario": "Excelente producto, llegó rápido y funciona perfecto.",
+  "fecha": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "Laura Martínez",
+  "id_producto": "P001"
+},
+{
+  "_id": {
+    "$oid": "68f02126cadc138a141da259"
+  },
+  "calificacion": 4,
+  "comentario": "Buen monitor, aunque los colores podrían ser mejores.",
+  "fecha": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "Anónimo",
+  "id_producto": "P003"
+},
+{
+  "_id": {
+    "$oid": "68f02133cadc138a141da25b"
+  },
+  "calificacion": 3,
+  "comentario": "El mouse es cómodo, pero la batería dura poco.",
+  "fecha": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "Carlos Gómez",
+  "id_producto": "P002"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c80"
+  },
+  "id": "V005",
+  "calificacion": 4,
+  "comentario": "Excelente producto, cumple con lo prometido.",
+  "fecha": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U003",
+  "id_producto": "P002"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c81"
+  },
+  "id": "V006",
+  "calificacion": 5,
+  "comentario": "Muy buena calidad, lo recomiendo totalmente.",
+  "fecha": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U007",
+  "id_producto": "P010"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c82"
+  },
+  "id": "V007",
+  "calificacion": 3,
+  "comentario": "Funciona bien pero el empaque llegó dañado.",
+  "fecha": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U010",
+  "id_producto": "P006"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c83"
+  },
+  "id": "V008",
+  "calificacion": 2,
+  "comentario": "No cumplió mis expectativas, esperaba mejor rendimiento.",
+  "fecha": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U012",
+  "id_producto": "P008"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c84"
+  },
+  "id": "V009",
+  "calificacion": 5,
+  "comentario": "Entrega rápida y el producto funciona perfectamente.",
+  "fecha": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U006",
+  "id_producto": "P015"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c85"
+  },
+  "id": "V010",
+  "calificacion": 4,
+  "comentario": "Buen producto, aunque un poco caro.",
+  "fecha": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U014",
+  "id_producto": "P007"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c86"
+  },
+  "id": "V011",
+  "calificacion": 3,
+  "comentario": "Cumple lo básico, sin destacar.",
+  "fecha": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U005",
+  "id_producto": "P011"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c87"
+  },
+  "id": "V012",
+  "calificacion": 5,
+  "comentario": "Excelente compra, volvería a comprar.",
+  "fecha": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U013",
+  "id_producto": "P009"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c88"
+  },
+  "id": "V013",
+  "calificacion": 1,
+  "comentario": "Defectuoso, no funcionó correctamente.",
+  "fecha": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U002",
+  "id_producto": "P005"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c89"
+  },
+  "id": "V014",
+  "calificacion": 4,
+  "comentario": "Buen producto, aunque el envío demoró un poco.",
+  "fecha": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U011",
+  "id_producto": "P018"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c8a"
+  },
+  "id": "V015",
+  "calificacion": 2,
+  "comentario": "El color no coincide con las fotos del anuncio.",
+  "fecha": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U015",
+  "id_producto": "P004"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c8b"
+  },
+  "id": "V016",
+  "calificacion": 5,
+  "comentario": "Gran relación calidad-precio, recomendado.",
+  "fecha": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U020",
+  "id_producto": "P012"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c8c"
+  },
+  "id": "V017",
+  "calificacion": 3,
+  "comentario": "Buena compra, aunque podría mejorar el embalaje.",
+  "fecha": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U016",
+  "id_producto": "P017"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c8d"
+  },
+  "id": "V018",
+  "calificacion": 4,
+  "comentario": "La calidad es buena, llegó antes de lo esperado.",
+  "fecha": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U021",
+  "id_producto": "P019"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c8e"
+  },
+  "id": "V019",
+  "calificacion": 5,
+  "comentario": "Excelente, funciona mejor de lo que esperaba.",
+  "fecha": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U008",
+  "id_producto": "P013"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c8f"
+  },
+  "id": "V020",
+  "calificacion": 2,
+  "comentario": "La batería dura poco, no lo recomiendo.",
+  "fecha": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U017",
+  "id_producto": "P014"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c90"
+  },
+  "id": "V021",
+  "calificacion": 4,
+  "comentario": "Cumple con lo prometido, buen soporte técnico.",
+  "fecha": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U019",
+  "id_producto": "P016"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c91"
+  },
+  "id": "V022",
+  "calificacion": 3,
+  "comentario": "Producto decente, aunque esperaba un mejor diseño.",
+  "fecha": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U009",
+  "id_producto": "P020"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c92"
+  },
+  "id": "V023",
+  "calificacion": 5,
+  "comentario": "Muy satisfecho con la compra, llegó en perfectas condiciones.",
+  "fecha": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U022",
+  "id_producto": "P021"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c93"
+  },
+  "id": "V024",
+  "calificacion": 1,
+  "comentario": "Mala calidad, se dañó al poco tiempo.",
+  "fecha": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "anonimo": false,
+  "usuario": "U018",
+  "id_producto": "P022"
+},
+{
+  "_id": {
+    "$oid": "68f13386ef538acec3717c94"
+  },
+  "id": "V025",
+  "calificacion": 4,
+  "comentario": "Cumple bien su función, sin quejas hasta ahora.",
+  "fecha": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "anonimo": true,
+  "usuario": "U023",
+  "id_producto": "P023"
+}]

@@ -1,0 +1,679 @@
+[{
+  "_id": {
+    "$oid": "68f01f7ecadc138a141da237"
+  },
+  "id": "P001",
+  "nombre": "Teclado Mecánico RGB",
+  "descripcion": "Teclado mecánico con retroiluminación RGB y switches rojos.",
+  "imagen": "https://ejemplo.com/teclado.jpg",
+  "dimensiones": {
+    "alto": 4.5,
+    "ancho": 45,
+    "largo": 13.5
+  },
+  "categoria": "Periféricos",
+  "precio": 250000,
+  "fecha_publicacion": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "cantidad_stock": 30,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 10
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_teclado.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=abc123"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f01f7ecadc138a141da238"
+  },
+  "id": "P002",
+  "nombre": "Mouse Gamer Inalámbrico",
+  "descripcion": "Mouse con 9 botones programables y sensor óptico de alta precisión.",
+  "imagen": "https://ejemplo.com/mouse.jpg",
+  "dimensiones": {
+    "alto": 4,
+    "ancho": 8,
+    "largo": 12
+  },
+  "categoria": "Periféricos",
+  "precio": 180000,
+  "fecha_publicacion": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 15,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 5
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_mouse.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f01f7ecadc138a141da239"
+  },
+  "id": "P003",
+  "nombre": "Monitor 24'' Full HD",
+  "descripcion": "Pantalla LED de 24 pulgadas con resolución 1920x1080.",
+  "imagen": "https://ejemplo.com/monitor.jpg",
+  "dimensiones": {
+    "alto": 35,
+    "ancho": 54,
+    "largo": 18
+  },
+  "categoria": "Monitores",
+  "precio": 620000,
+  "fecha_publicacion": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 8,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_monitor.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=def456"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f12e25ef538acec3717b93"
+  },
+  "id": "P003",
+  "nombre": "Monitor 24'' Full HD",
+  "descripcion": "Pantalla LED de 24 pulgadas con resolución 1920x1080.",
+  "imagen": "https://ejemplo.com/monitor.jpg",
+  "dimensiones": {
+    "alto": 35,
+    "ancho": 54,
+    "largo": 18
+  },
+  "categoria": "Monitores",
+  "precio": 620000,
+  "fecha_publicacion": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 8,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_monitor.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=def456"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c32"
+  },
+  "id": "P005",
+  "nombre": "Laptop Ultrabook 14''",
+  "descripcion": "Portátil ultraligero con procesador Intel i7 y SSD de 512GB.",
+  "imagen": "https://ejemplo.com/laptop.jpg",
+  "dimensiones": {
+    "alto": 1.8,
+    "ancho": 32,
+    "largo": 22
+  },
+  "categoria": "Computadores",
+  "precio": 3400000,
+  "fecha_publicacion": {
+    "$date": "2025-03-02T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 10,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_laptop.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=lap001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c33"
+  },
+  "id": "P006",
+  "nombre": "Disco Duro Externo 2TB",
+  "descripcion": "Disco duro portátil con conexión USB 3.2 y carcasa resistente a golpes.",
+  "imagen": "https://ejemplo.com/discoduro.jpg",
+  "dimensiones": {
+    "alto": 1.5,
+    "ancho": 8,
+    "largo": 12
+  },
+  "categoria": "Almacenamiento",
+  "precio": 420000,
+  "fecha_publicacion": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "cantidad_stock": 40,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 8
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_disco.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c34"
+  },
+  "id": "P007",
+  "nombre": "Cámara Web Full HD",
+  "descripcion": "Cámara para videollamadas con micrófono integrado y enfoque automático.",
+  "imagen": "https://ejemplo.com/camara.jpg",
+  "dimensiones": {
+    "alto": 4,
+    "ancho": 9,
+    "largo": 4
+  },
+  "categoria": "Periféricos",
+  "precio": 150000,
+  "fecha_publicacion": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "cantidad_stock": 35,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_camara.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c35"
+  },
+  "id": "P008",
+  "nombre": "Router WiFi 6",
+  "descripcion": "Router de última generación con velocidad de hasta 3000 Mbps.",
+  "imagen": "https://ejemplo.com/router.jpg",
+  "dimensiones": {
+    "alto": 5,
+    "ancho": 25,
+    "largo": 18
+  },
+  "categoria": "Redes",
+  "precio": 480000,
+  "fecha_publicacion": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "cantidad_stock": 20,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 12
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_router.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=net001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c36"
+  },
+  "id": "P009",
+  "nombre": "Memoria USB 128GB",
+  "descripcion": "Unidad flash USB 3.0 de alta velocidad y diseño compacto.",
+  "imagen": "https://ejemplo.com/usb.jpg",
+  "dimensiones": {
+    "alto": 0.9,
+    "ancho": 2,
+    "largo": 6
+  },
+  "categoria": "Almacenamiento",
+  "precio": 75000,
+  "fecha_publicacion": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "cantidad_stock": 120,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_usb.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c37"
+  },
+  "id": "P010",
+  "nombre": "Parlante Bluetooth Portátil",
+  "descripcion": "Altavoz resistente al agua con batería de 10 horas.",
+  "imagen": "https://ejemplo.com/parlante.jpg",
+  "dimensiones": {
+    "alto": 7,
+    "ancho": 8,
+    "largo": 20
+  },
+  "categoria": "Audio",
+  "precio": 260000,
+  "fecha_publicacion": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "cantidad_stock": 45,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 5
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_parlante.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=aud001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c38"
+  },
+  "id": "P011",
+  "nombre": "Silla Ergonómica de Oficina",
+  "descripcion": "Silla ajustable con soporte lumbar y malla transpirable.",
+  "imagen": "https://ejemplo.com/silla.jpg",
+  "dimensiones": {
+    "alto": 120,
+    "ancho": 60,
+    "largo": 60
+  },
+  "categoria": "Muebles",
+  "precio": 780000,
+  "fecha_publicacion": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "cantidad_stock": 12,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_silla.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=furn001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c39"
+  },
+  "id": "P012",
+  "nombre": "Smartwatch Deportivo",
+  "descripcion": "Reloj inteligente con GPS, sensor cardíaco y monitor de sueño.",
+  "imagen": "https://ejemplo.com/smartwatch.jpg",
+  "dimensiones": {
+    "alto": 1.2,
+    "ancho": 4,
+    "largo": 25
+  },
+  "categoria": "Wearables",
+  "precio": 480000,
+  "fecha_publicacion": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "cantidad_stock": 30,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 10
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_smartwatch.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=wear001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c3a"
+  },
+  "id": "P013",
+  "nombre": "Tablet 10'' Android",
+  "descripcion": "Tablet con pantalla Full HD, 6GB RAM y 128GB de almacenamiento.",
+  "imagen": "https://ejemplo.com/tablet.jpg",
+  "dimensiones": {
+    "alto": 0.9,
+    "ancho": 25,
+    "largo": 16
+  },
+  "categoria": "Tablets",
+  "precio": 950000,
+  "fecha_publicacion": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 18,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_tablet.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=tab001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c3b"
+  },
+  "id": "P014",
+  "nombre": "Impresora Multifuncional WiFi",
+  "descripcion": "Imprime, escanea y copia con conexión inalámbrica y ahorro de tinta.",
+  "imagen": "https://ejemplo.com/impresora.jpg",
+  "dimensiones": {
+    "alto": 18,
+    "ancho": 42,
+    "largo": 30
+  },
+  "categoria": "Oficina",
+  "precio": 560000,
+  "fecha_publicacion": {
+    "$date": "2025-02-08T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "cantidad_stock": 22,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 7
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_impresora.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c3c"
+  },
+  "id": "P015",
+  "nombre": "Micrófono USB Condensador",
+  "descripcion": "Micrófono profesional para streaming y grabaciones.",
+  "imagen": "https://ejemplo.com/microfono.jpg",
+  "dimensiones": {
+    "alto": 15,
+    "ancho": 6,
+    "largo": 6
+  },
+  "categoria": "Audio",
+  "precio": 310000,
+  "fecha_publicacion": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "cantidad_stock": 40,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_microfono.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c3d"
+  },
+  "id": "P016",
+  "nombre": "Teclado Inalámbrico Slim",
+  "descripcion": "Teclado delgado con conexión Bluetooth y batería recargable.",
+  "imagen": "https://ejemplo.com/teclado_slim.jpg",
+  "dimensiones": {
+    "alto": 2,
+    "ancho": 42,
+    "largo": 12
+  },
+  "categoria": "Periféricos",
+  "precio": 160000,
+  "fecha_publicacion": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "cantidad_stock": 28,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_teclado_slim.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c3e"
+  },
+  "id": "P017",
+  "nombre": "Cargador Rápido USB-C 65W",
+  "descripcion": "Cargador compacto compatible con laptops y teléfonos.",
+  "imagen": "https://ejemplo.com/cargador.jpg",
+  "dimensiones": {
+    "alto": 3.5,
+    "ancho": 5,
+    "largo": 7
+  },
+  "categoria": "Accesorios",
+  "precio": 110000,
+  "fecha_publicacion": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 80,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_cargador.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c3f"
+  },
+  "id": "P018",
+  "nombre": "Adaptador HDMI a VGA",
+  "descripcion": "Adaptador compatible con resolución Full HD para proyectores y monitores antiguos.",
+  "imagen": "https://ejemplo.com/adaptador.jpg",
+  "dimensiones": {
+    "alto": 1,
+    "ancho": 2.5,
+    "largo": 5
+  },
+  "categoria": "Accesorios",
+  "precio": 45000,
+  "fecha_publicacion": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 200,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_adaptador.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c40"
+  },
+  "id": "P019",
+  "nombre": "Base Refrigerante para Laptop",
+  "descripcion": "Base con ventiladores LED para enfriar portátiles hasta 17 pulgadas.",
+  "imagen": "https://ejemplo.com/base.jpg",
+  "dimensiones": {
+    "alto": 4,
+    "ancho": 38,
+    "largo": 27
+  },
+  "categoria": "Accesorios",
+  "precio": 130000,
+  "fecha_publicacion": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "cantidad_stock": 60,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_base.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c41"
+  },
+  "id": "P020",
+  "nombre": "SSD Interno NVMe 1TB",
+  "descripcion": "Unidad de estado sólido ultra rápida con velocidades de lectura de 3500 MB/s.",
+  "imagen": "https://ejemplo.com/ssd.jpg",
+  "dimensiones": {
+    "alto": 0.3,
+    "ancho": 2.2,
+    "largo": 8
+  },
+  "categoria": "Almacenamiento",
+  "precio": 620000,
+  "fecha_publicacion": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "cantidad_stock": 50,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 5
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_ssd.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c42"
+  },
+  "id": "P021",
+  "nombre": "Monitor Curvo 27'' QHD",
+  "descripcion": "Pantalla curva de alta resolución con tecnología FreeSync.",
+  "imagen": "https://ejemplo.com/monitor_curvo.jpg",
+  "dimensiones": {
+    "alto": 38,
+    "ancho": 61,
+    "largo": 20
+  },
+  "categoria": "Monitores",
+  "precio": 1250000,
+  "fecha_publicacion": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "cantidad_stock": 9,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_monitor_curvo.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=mon001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c43"
+  },
+  "id": "P022",
+  "nombre": "Soporte para Monitor Ajustable",
+  "descripcion": "Brazo articulado con rotación de 360 grados y ajuste de altura.",
+  "imagen": "https://ejemplo.com/soporte.jpg",
+  "dimensiones": {
+    "alto": 40,
+    "ancho": 10,
+    "largo": 40
+  },
+  "categoria": "Accesorios",
+  "precio": 210000,
+  "fecha_publicacion": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "cantidad_stock": 25,
+  "disponible": true,
+  "descuentos": [],
+  "manual": "https://ejemplo.com/manual_soporte.pdf",
+  "videos": []
+},
+{
+  "_id": {
+    "$oid": "68f1308cef538acec3717c44"
+  },
+  "id": "P023",
+  "nombre": "Auriculares Inalámbricos ANC",
+  "descripcion": "Auriculares con cancelación activa de ruido y autonomía de 30 horas.",
+  "imagen": "https://ejemplo.com/auriculares.jpg",
+  "dimensiones": {
+    "alto": 20,
+    "ancho": 18,
+    "largo": 8
+  },
+  "categoria": "Audio",
+  "precio": 520000,
+  "fecha_publicacion": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "fecha_actualizacion": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "cantidad_stock": 32,
+  "disponible": true,
+  "descuentos": [
+    {
+      "porcentaje": 15
+    }
+  ],
+  "manual": "https://ejemplo.com/manual_auriculares.pdf",
+  "videos": [
+    "https://youtube.com/watch?v=aud002"
+  ]
+}]

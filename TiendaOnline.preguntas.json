@@ -1,0 +1,532 @@
+[{
+  "_id": {
+    "$oid": "68f020eecadc138a141da24f"
+  },
+  "pregunta": "¿El teclado incluye reposamuñecas?",
+  "fecha": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "comprador": "Laura Martínez",
+  "anonimo": false,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, viene con uno desmontable.",
+      "fecha": {
+        "$date": "2025-04-06T00:00:00.000Z"
+      },
+      "vendedor": "Carlos Gómez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f020f8cadc138a141da251"
+  },
+  "pregunta": "¿Este monitor tiene altavoces integrados?",
+  "fecha": {
+    "$date": "2025-03-28T00:00:00.000Z"
+  },
+  "comprador": "Anónimo",
+  "anonimo": true,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "No, pero tiene salida de audio para parlantes externos.",
+      "fecha": {
+        "$date": "2025-03-29T00:00:00.000Z"
+      },
+      "vendedor": "Andrés Torres"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f02104cadc138a141da253"
+  },
+  "pregunta": "¿Qué tipo de cable usa el mouse?",
+  "fecha": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "comprador": "Laura Martínez",
+  "anonimo": false,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Utiliza cable USB tipo C para carga.",
+      "fecha": {
+        "$date": "2025-02-23T00:00:00.000Z"
+      },
+      "vendedor": "Carlos Gómez"
+    },
+    {
+      "comentario": "Además, puedes usarlo inalámbricamente por Bluetooth.",
+      "fecha": {
+        "$date": "2025-02-23T00:00:00.000Z"
+      },
+      "vendedor": "Carlos Gómez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c63"
+  },
+  "id": "Q005",
+  "pregunta": "¿Este teclado es compatible con macOS?",
+  "fecha": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "comprador": "U003",
+  "anonimo": false,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, funciona perfectamente en macOS y Windows.",
+      "fecha": {
+        "$date": "2025-03-11T00:00:00.000Z"
+      },
+      "vendedor": "U001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c64"
+  },
+  "id": "Q006",
+  "pregunta": "¿El mouse viene con batería recargable o pilas?",
+  "fecha": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "comprador": "U004",
+  "anonimo": true,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Incluye batería recargable con cable USB-C.",
+      "fecha": {
+        "$date": "2025-03-15T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c65"
+  },
+  "id": "Q007",
+  "pregunta": "¿El monitor tiene altavoces integrados?",
+  "fecha": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "comprador": "U007",
+  "anonimo": false,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, cuenta con altavoces estéreo integrados.",
+      "fecha": {
+        "$date": "2025-02-26T00:00:00.000Z"
+      },
+      "vendedor": "U005"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c66"
+  },
+  "id": "Q008",
+  "pregunta": "¿Incluye cable HDMI en la caja?",
+  "fecha": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "comprador": "U008",
+  "anonimo": false,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, se incluye un cable HDMI de 1.5 metros.",
+      "fecha": {
+        "$date": "2025-03-06T00:00:00.000Z"
+      },
+      "vendedor": "U006"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c67"
+  },
+  "id": "Q009",
+  "pregunta": "¿Se puede usar este teclado en PS5?",
+  "fecha": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "comprador": "U009",
+  "anonimo": true,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, es reconocido sin problema por la consola.",
+      "fecha": {
+        "$date": "2025-04-03T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c68"
+  },
+  "id": "Q010",
+  "pregunta": "¿Qué tipo de switches tiene este teclado?",
+  "fecha": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "comprador": "U010",
+  "anonimo": false,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Utiliza switches rojos lineales con baja resistencia.",
+      "fecha": {
+        "$date": "2025-02-11T00:00:00.000Z"
+      },
+      "vendedor": "U001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c69"
+  },
+  "id": "Q011",
+  "pregunta": "¿Este mouse tiene conexión Bluetooth?",
+  "fecha": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "comprador": "U011",
+  "anonimo": false,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Sí, cuenta con Bluetooth y receptor USB 2.4 GHz.",
+      "fecha": {
+        "$date": "2025-03-19T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c6a"
+  },
+  "id": "Q012",
+  "pregunta": "¿El monitor es ajustable en altura?",
+  "fecha": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "comprador": "U012",
+  "anonimo": false,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, tiene ajuste de altura e inclinación.",
+      "fecha": {
+        "$date": "2025-04-08T00:00:00.000Z"
+      },
+      "vendedor": "U005"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c6b"
+  },
+  "id": "Q013",
+  "pregunta": "¿Cuál es la duración promedio de la batería del mouse?",
+  "fecha": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "comprador": "U014",
+  "anonimo": false,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Dura entre 40 y 50 horas con uso continuo.",
+      "fecha": {
+        "$date": "2025-02-28T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c6c"
+  },
+  "id": "Q014",
+  "pregunta": "¿Puedo conectar dos monitores iguales a la vez?",
+  "fecha": {
+    "$date": "2025-03-09T00:00:00.000Z"
+  },
+  "comprador": "U015",
+  "anonimo": true,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, si tu tarjeta gráfica tiene dos salidas HDMI o DisplayPort.",
+      "fecha": {
+        "$date": "2025-03-10T00:00:00.000Z"
+      },
+      "vendedor": "U006"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c6d"
+  },
+  "id": "Q015",
+  "pregunta": "¿Este teclado tiene cable desmontable?",
+  "fecha": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "comprador": "U016",
+  "anonimo": false,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, el cable es desmontable y tipo USB-C.",
+      "fecha": {
+        "$date": "2025-04-15T00:00:00.000Z"
+      },
+      "vendedor": "U001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c6e"
+  },
+  "id": "Q016",
+  "pregunta": "¿El monitor tiene entrada VGA además de HDMI?",
+  "fecha": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "comprador": "U017",
+  "anonimo": true,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, tiene ambas entradas: VGA y HDMI.",
+      "fecha": {
+        "$date": "2025-03-02T00:00:00.000Z"
+      },
+      "vendedor": "U005"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c6f"
+  },
+  "id": "Q017",
+  "pregunta": "¿El mouse es compatible con Linux?",
+  "fecha": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "comprador": "U018",
+  "anonimo": false,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Sí, Linux lo reconoce automáticamente como dispositivo HID.",
+      "fecha": {
+        "$date": "2025-02-16T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c70"
+  },
+  "id": "Q018",
+  "pregunta": "¿Puedo cambiar el color del RGB del teclado?",
+  "fecha": {
+    "$date": "2025-05-03T00:00:00.000Z"
+  },
+  "comprador": "U019",
+  "anonimo": false,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, tiene software para personalizar los colores.",
+      "fecha": {
+        "$date": "2025-05-04T00:00:00.000Z"
+      },
+      "vendedor": "U001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c71"
+  },
+  "id": "Q019",
+  "pregunta": "¿El monitor trae soporte VESA para pared?",
+  "fecha": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "comprador": "U020",
+  "anonimo": false,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, es compatible con soportes VESA 100x100.",
+      "fecha": {
+        "$date": "2025-03-26T00:00:00.000Z"
+      },
+      "vendedor": "U006"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c72"
+  },
+  "id": "Q020",
+  "pregunta": "¿El teclado tiene distribución española?",
+  "fecha": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "comprador": "U021",
+  "anonimo": true,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, incluye la tecla Ñ y distribución española.",
+      "fecha": {
+        "$date": "2025-02-23T00:00:00.000Z"
+      },
+      "vendedor": "U001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c73"
+  },
+  "id": "Q021",
+  "pregunta": "¿El mouse se puede usar mientras se carga?",
+  "fecha": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "comprador": "U022",
+  "anonimo": false,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Sí, puedes usarlo conectado por cable mientras carga.",
+      "fecha": {
+        "$date": "2025-04-19T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c74"
+  },
+  "id": "Q022",
+  "pregunta": "¿El monitor incluye garantía?",
+  "fecha": {
+    "$date": "2025-05-08T00:00:00.000Z"
+  },
+  "comprador": "U023",
+  "anonimo": false,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, tiene garantía de 1 año por defectos de fábrica.",
+      "fecha": {
+        "$date": "2025-05-09T00:00:00.000Z"
+      },
+      "vendedor": "U005"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c75"
+  },
+  "id": "Q023",
+  "pregunta": "¿El teclado tiene modo silencioso?",
+  "fecha": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "comprador": "U024",
+  "anonimo": false,
+  "id_producto": "P001",
+  "interacciones": [
+    {
+      "comentario": "Sí, puedes activarlo desde el software incluido.",
+      "fecha": {
+        "$date": "2025-03-30T00:00:00.000Z"
+      },
+      "vendedor": "U001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c76"
+  },
+  "id": "Q024",
+  "pregunta": "¿El monitor tiene entrada DisplayPort?",
+  "fecha": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "comprador": "U025",
+  "anonimo": false,
+  "id_producto": "P003",
+  "interacciones": [
+    {
+      "comentario": "Sí, tiene DisplayPort 1.4 además de HDMI.",
+      "fecha": {
+        "$date": "2025-04-22T00:00:00.000Z"
+      },
+      "vendedor": "U006"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f13377ef538acec3717c77"
+  },
+  "id": "Q025",
+  "pregunta": "¿El mouse tiene luces RGB personalizables?",
+  "fecha": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "comprador": "U025",
+  "anonimo": true,
+  "id_producto": "P002",
+  "interacciones": [
+    {
+      "comentario": "Sí, puedes configurar los colores desde el software oficial.",
+      "fecha": {
+        "$date": "2025-05-12T00:00:00.000Z"
+      },
+      "vendedor": "U002"
+    }
+  ]
+}]
